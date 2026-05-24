@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Brand,Cost_Price,Selling_Price
+P00001,Surf Excel 1kg,Cleaning,HUL,477,624
+P00002,Potato 1kg,Vegetables,Local,389,530
+P00003,Amul Milk 500ml,Dairy,Amul,172,184
+P00004,Tata Salt 1kg,Grocery,Tata,480,666
+P00005,Banana 1 Dozen,Fruits,Local,73,190
+P00006,Aashirvaad Atta 5kg,Grocery,ITC,466,570
+P00007,Onion 1kg,Vegetables,Local,257,403
+P00008,Surf Excel 1kg,Cleaning,HUL,302,324
+P00009,Lays Classic Chips,Snacks,PepsiCo,312,407
+P00010,Coca Cola 1L,Beverages,Coca Cola,189,217
+P00011,Colgate Toothpaste,Personal Care,Colgate,51,221
+P00012,Aashirvaad Atta 5kg,Grocery,ITC,440,523
+P00013,Pepsi 1L,Beverages,PepsiCo,30,49
+P00014,Potato 1kg,Vegetables,Local,406,422
+P00015,Amul Milk 500ml,Dairy,Amul,377,536
+P00016,Kurkure Masala,Snacks,PepsiCo,144,218
+P00017,Kurkure Masala,Snacks,PepsiCo,277,396
+P00018,Dove Soap,Personal Care,HUL,188,356
+P00019,Colgate Toothpaste,Personal Care,Colgate,35,200
+P00020,Lizol Floor Cleaner,Cleaning,HUL,338,347
+P00021,Lays Classic Chips,Snacks,PepsiCo,311,366
+P00022,Amul Milk 500ml,Dairy,Amul,73,104
+P00023,Lays Classic Chips,Snacks,PepsiCo,184,351
+P00024,Amul Milk 500ml,Dairy,Amul,42,211
+P00025,Coca Cola 1L,Beverages,Coca Cola,437,602
+P00026,Mother Dairy Curd 400g,Dairy,Mother Dairy,262,337
+P00027,Kurkure Masala,Snacks,PepsiCo,302,500
+P00028,Amul Milk 500ml,Dairy,Amul,215,389
+P00029,Potato 1kg,Vegetables,Local,86,137
+P00030,Kurkure Masala,Snacks,PepsiCo,126,179
+P00031,Pepsi 1L,Beverages,PepsiCo,319,377
+P00032,Aashirvaad Atta 5kg,Grocery,ITC,334,482
+P00033,Amul Milk 500ml,Dairy,Amul,206,254
+P00034,Mother Dairy Curd 400g,Dairy,Mother Dairy,16,148
+P00035,Surf Excel 1kg,Cleaning,HUL,20,59
+P00036,Apple 1kg,Fruits,Local,412,461
+P00037,Coca Cola 1L,Beverages,Coca Cola,343,529
+P00038,Pepsi 1L,Beverages,PepsiCo,81,152
+P00039,Colgate Toothpaste,Personal Care,Colgate,196,262
+P00040,Dove Soap,Personal Care,HUL,493,686
+P00041,Banana 1 Dozen,Fruits,Local,22,205
+P00042,Onion 1kg,Vegetables,Local,263,444
+P00043,Tata Salt 1kg,Grocery,Tata,423,592
+P00044,Apple 1kg,Fruits,Local,166,271
+P00045,Potato 1kg,Vegetables,Local,471,580
+P00046,Dove Soap,Personal Care,HUL,140,157
+P00047,Coca Cola 1L,Beverages,Coca Cola,287,418
+P00048,Surf Excel 1kg,Cleaning,HUL,195,365
+P00049,Banana 1 Dozen,Fruits,Local,139,239
+P00050,Lizol Floor Cleaner,Cleaning,HUL,140,229
+P00051,Tata Salt 1kg,Grocery,Tata,153,255
+P00052,Pepsi 1L,Beverages,PepsiCo,468,613
+P00053,Pepsi 1L,Beverages,PepsiCo,191,327
+P00054,Surf Excel 1kg,Cleaning,HUL,351,547
+P00055,Apple 1kg,Fruits,Local,269,324
+P00056,Banana 1 Dozen,Fruits,Local,297,491
+P00057,Lizol Floor Cleaner,Cleaning,HUL,348,443
+P00058,Pepsi 1L,Beverages,PepsiCo,332,377
+P00059,Pepsi 1L,Beverages,PepsiCo,436,567
+P00060,Surf Excel 1kg,Cleaning,HUL,232,337
+P00061,Banana 1 Dozen,Fruits,Local,275,360
+P00062,Lizol Floor Cleaner,Cleaning,HUL,88,100
+P00063,Colgate Toothpaste,Personal Care,Colgate,252,350
+P00064,Dove Soap,Personal Care,HUL,12,147
+P00065,Banana 1 Dozen,Fruits,Local,134,179
+P00066,Pepsi 1L,Beverages,PepsiCo,404,565
+P00067,Surf Excel 1kg,Cleaning,HUL,346,517
+P00068,Apple 1kg,Fruits,Local,163,230
+P00069,Pepsi 1L,Beverages,PepsiCo,315,496
+P00070,Onion 1kg,Vegetables,Local,453,595
+P00071,Mother Dairy Curd 400g,Dairy,Mother Dairy,192,203
+P00072,Banana 1 Dozen,Fruits,Local,173,193
+P00073,Potato 1kg,Vegetables,Local,379,392
+P00074,Kurkure Masala,Snacks,PepsiCo,282,355
+P00075,Coca Cola 1L,Beverages,Coca Cola,247,294
+P00076,Amul Milk 500ml,Dairy,Amul,36,158
+P00077,Surf Excel 1kg,Cleaning,HUL,153,202
+P00078,Surf Excel 1kg,Cleaning,HUL,300,316
+P00079,Colgate Toothpaste,Personal Care,Colgate,238,301
+P00080,Dove Soap,Personal Care,HUL,474,515
+P00081,Onion 1kg,Vegetables,Local,148,315
+P00082,Potato 1kg,Vegetables,Local,351,516
+P00083,Amul Milk 500ml,Dairy,Amul,133,281
+P00084,Amul Milk 500ml,Dairy,Amul,42,154
+P00085,Lays Classic Chips,Snacks,PepsiCo,181,329
+P00086,Potato 1kg,Vegetables,Local,66,161
+P00087,Mother Dairy Curd 400g,Dairy,Mother Dairy,356,394
+P00088,Amul Milk 500ml,Dairy,Amul,163,255
+P00089,Amul Milk 500ml,Dairy,Amul,346,398
+P00090,Aashirvaad Atta 5kg,Grocery,ITC,169,227
+P00091,Onion 1kg,Vegetables,Local,126,147
+P00092,Lays Classic Chips,Snacks,PepsiCo,475,598
+P00093,Apple 1kg,Fruits,Local,405,585
+P00094,Lizol Floor Cleaner,Cleaning,HUL,432,494
+P00095,Dove Soap,Personal Care,HUL,327,526
+P00096,Onion 1kg,Vegetables,Local,106,131
+P00097,Aashirvaad Atta 5kg,Grocery,ITC,67,108
+P00098,Lizol Floor Cleaner,Cleaning,HUL,346,441
+P00099,Amul Milk 500ml,Dairy,Amul,150,197
+P00100,Coca Cola 1L,Beverages,Coca Cola,193,245
+P00101,Colgate Toothpaste,Personal Care,Colgate,428,500
+P00102,Lays Classic Chips,Snacks,PepsiCo,292,408
+P00103,Coca Cola 1L,Beverages,Coca Cola,473,524
+P00104,Potato 1kg,Vegetables,Local,66,248
+P00105,Mother Dairy Curd 400g,Dairy,Mother Dairy,278,376
+P00106,Dove Soap,Personal Care,HUL,124,264
+P00107,Surf Excel 1kg,Cleaning,HUL,293,481
+P00108,Potato 1kg,Vegetables,Local,188,267
+P00109,Onion 1kg,Vegetables,Local,498,523
+P00110,Apple 1kg,Fruits,Local,333,531
+P00111,Pepsi 1L,Beverages,PepsiCo,30,189
+P00112,Tata Salt 1kg,Grocery,Tata,309,373
+P00113,Onion 1kg,Vegetables,Local,58,83
+P00114,Dove Soap,Personal Care,HUL,350,432
+P00115,Potato 1kg,Vegetables,Local,434,530
+P00116,Onion 1kg,Vegetables,Local,396,576
+P00117,Lizol Floor Cleaner,Cleaning,HUL,362,483
+P00118,Mother Dairy Curd 400g,Dairy,Mother Dairy,482,682
+P00119,Pepsi 1L,Beverages,PepsiCo,79,205
+P00120,Kurkure Masala,Snacks,PepsiCo,288,320
+P00121,Pepsi 1L,Beverages,PepsiCo,243,299
+P00122,Lizol Floor Cleaner,Cleaning,HUL,236,305
+P00123,Coca Cola 1L,Beverages,Coca Cola,58,98
+P00124,Tata Salt 1kg,Grocery,Tata,351,437
+P00125,Dove Soap,Personal Care,HUL,201,314
+P00126,Kurkure Masala,Snacks,PepsiCo,399,512
+P00127,Apple 1kg,Fruits,Local,462,492
+P00128,Kurkure Masala,Snacks,PepsiCo,395,508
+P00129,Amul Milk 500ml,Dairy,Amul,273,343
+P00130,Aashirvaad Atta 5kg,Grocery,ITC,271,443
+P00131,Colgate Toothpaste,Personal Care,Colgate,210,255
+P00132,Amul Milk 500ml,Dairy,Amul,311,475
+P00133,Mother Dairy Curd 400g,Dairy,Mother Dairy,227,378
+P00134,Lizol Floor Cleaner,Cleaning,HUL,52,211
+P00135,Pepsi 1L,Beverages,PepsiCo,133,143
+P00136,Lizol Floor Cleaner,Cleaning,HUL,482,645
+P00137,Onion 1kg,Vegetables,Local,496,519
+P00138,Pepsi 1L,Beverages,PepsiCo,391,522
+P00139,Mother Dairy Curd 400g,Dairy,Mother Dairy,169,259
+P00140,Mother Dairy Curd 400g,Dairy,Mother Dairy,374,463
+P00141,Lays Classic Chips,Snacks,PepsiCo,479,516
+P00142,Pepsi 1L,Beverages,PepsiCo,235,298
+P00143,Aashirvaad Atta 5kg,Grocery,ITC,495,544
+P00144,Surf Excel 1kg,Cleaning,HUL,153,216
+P00145,Mother Dairy Curd 400g,Dairy,Mother Dairy,167,300
+P00146,Potato 1kg,Vegetables,Local,445,473
+P00147,Banana 1 Dozen,Fruits,Local,342,385
+P00148,Mother Dairy Curd 400g,Dairy,Mother Dairy,84,183
+P00149,Lizol Floor Cleaner,Cleaning,HUL,215,296
+P00150,Potato 1kg,Vegetables,Local,33,211
+P00151,Lays Classic Chips,Snacks,PepsiCo,293,342
+P00152,Lizol Floor Cleaner,Cleaning,HUL,64,132
+P00153,Apple 1kg,Fruits,Local,77,202
+P00154,Potato 1kg,Vegetables,Local,402,501
+P00155,Colgate Toothpaste,Personal Care,Colgate,203,327
+P00156,Kurkure Masala,Snacks,PepsiCo,320,481
+P00157,Tata Salt 1kg,Grocery,Tata,66,254
+P00158,Onion 1kg,Vegetables,Local,159,315
+P00159,Amul Milk 500ml,Dairy,Amul,393,471
+P00160,Apple 1kg,Fruits,Local,109,135
+P00161,Surf Excel 1kg,Cleaning,HUL,341,422
+P00162,Lizol Floor Cleaner,Cleaning,HUL,233,395
+P00163,Potato 1kg,Vegetables,Local,125,151
+P00164,Mother Dairy Curd 400g,Dairy,Mother Dairy,361,533
+P00165,Kurkure Masala,Snacks,PepsiCo,350,504
+P00166,Dove Soap,Personal Care,HUL,257,292
+P00167,Aashirvaad Atta 5kg,Grocery,ITC,174,183
+P00168,Pepsi 1L,Beverages,PepsiCo,85,264
+P00169,Aashirvaad Atta 5kg,Grocery,ITC,495,672
+P00170,Colgate Toothpaste,Personal Care,Colgate,319,356
+P00171,Coca Cola 1L,Beverages,Coca Cola,472,563
+P00172,Tata Salt 1kg,Grocery,Tata,475,595
+P00173,Surf Excel 1kg,Cleaning,HUL,448,494
+P00174,Aashirvaad Atta 5kg,Grocery,ITC,441,555
+P00175,Lays Classic Chips,Snacks,PepsiCo,360,522
+P00176,Tata Salt 1kg,Grocery,Tata,390,408
+P00177,Dove Soap,Personal Care,HUL,127,290
+P00178,Lays Classic Chips,Snacks,PepsiCo,90,120
+P00179,Lizol Floor Cleaner,Cleaning,HUL,213,363
+P00180,Tata Salt 1kg,Grocery,Tata,412,499
+P00181,Colgate Toothpaste,Personal Care,Colgate,121,299
+P00182,Colgate Toothpaste,Personal Care,Colgate,232,360
+P00183,Aashirvaad Atta 5kg,Grocery,ITC,405,416
+P00184,Potato 1kg,Vegetables,Local,80,229
+P00185,Colgate Toothpaste,Personal Care,Colgate,259,264
+P00186,Colgate Toothpaste,Personal Care,Colgate,339,418
+P00187,Potato 1kg,Vegetables,Local,445,602
+P00188,Tata Salt 1kg,Grocery,Tata,201,256
+P00189,Mother Dairy Curd 400g,Dairy,Mother Dairy,140,215
+P00190,Onion 1kg,Vegetables,Local,36,43
+P00191,Kurkure Masala,Snacks,PepsiCo,13,51
+P00192,Coca Cola 1L,Beverages,Coca Cola,390,528
+P00193,Lizol Floor Cleaner,Cleaning,HUL,296,427
+P00194,Mother Dairy Curd 400g,Dairy,Mother Dairy,464,523
+P00195,Banana 1 Dozen,Fruits,Local,336,429
+P00196,Mother Dairy Curd 400g,Dairy,Mother Dairy,97,254
+P00197,Onion 1kg,Vegetables,Local,267,374
+P00198,Colgate Toothpaste,Personal Care,Colgate,399,505
+P00199,Mother Dairy Curd 400g,Dairy,Mother Dairy,131,302
+P00200,Mother Dairy Curd 400g,Dairy,Mother Dairy,149,156
+P00201,Surf Excel 1kg,Cleaning,HUL,149,258
+P00202,Colgate Toothpaste,Personal Care,Colgate,357,451
+P00203,Banana 1 Dozen,Fruits,Local,330,352
+P00204,Lays Classic Chips,Snacks,PepsiCo,132,245
+P00205,Aashirvaad Atta 5kg,Grocery,ITC,32,56
+P00206,Lizol Floor Cleaner,Cleaning,HUL,435,580
+P00207,Lays Classic Chips,Snacks,PepsiCo,238,287
+P00208,Tata Salt 1kg,Grocery,Tata,34,231
+P00209,Onion 1kg,Vegetables,Local,61,128
+P00210,Lizol Floor Cleaner,Cleaning,HUL,153,254
+P00211,Mother Dairy Curd 400g,Dairy,Mother Dairy,61,205
+P00212,Banana 1 Dozen,Fruits,Local,91,134
+P00213,Amul Milk 500ml,Dairy,Amul,60,125
+P00214,Kurkure Masala,Snacks,PepsiCo,195,260
+P00215,Kurkure Masala,Snacks,PepsiCo,26,171
+P00216,Surf Excel 1kg,Cleaning,HUL,360,552
+P00217,Tata Salt 1kg,Grocery,Tata,461,658
+P00218,Coca Cola 1L,Beverages,Coca Cola,277,313
+P00219,Pepsi 1L,Beverages,PepsiCo,123,234
+P00220,Amul Milk 500ml,Dairy,Amul,131,273
+P00221,Tata Salt 1kg,Grocery,Tata,342,526
+P00222,Dove Soap,Personal Care,HUL,135,328
+P00223,Coca Cola 1L,Beverages,Coca Cola,317,325
+P00224,Colgate Toothpaste,Personal Care,Colgate,393,528
+P00225,Banana 1 Dozen,Fruits,Local,341,470
+P00226,Pepsi 1L,Beverages,PepsiCo,256,308
+P00227,Mother Dairy Curd 400g,Dairy,Mother Dairy,31,41
+P00228,Potato 1kg,Vegetables,Local,76,101
+P00229,Apple 1kg,Fruits,Local,367,555
+P00230,Aashirvaad Atta 5kg,Grocery,ITC,409,426
+P00231,Dove Soap,Personal Care,HUL,477,484
+P00232,Colgate Toothpaste,Personal Care,Colgate,68,184
+P00233,Lizol Floor Cleaner,Cleaning,HUL,147,295
+P00234,Potato 1kg,Vegetables,Local,456,468
+P00235,Onion 1kg,Vegetables,Local,63,114
+P00236,Surf Excel 1kg,Cleaning,HUL,244,250
+P00237,Potato 1kg,Vegetables,Local,51,251
+P00238,Aashirvaad Atta 5kg,Grocery,ITC,461,615
+P00239,Tata Salt 1kg,Grocery,Tata,328,400
+P00240,Banana 1 Dozen,Fruits,Local,195,266
+P00241,Potato 1kg,Vegetables,Local,225,385
+P00242,Dove Soap,Personal Care,HUL,82,244
+P00243,Coca Cola 1L,Beverages,Coca Cola,186,277
+P00244,Coca Cola 1L,Beverages,Coca Cola,431,465
+P00245,Kurkure Masala,Snacks,PepsiCo,242,356
+P00246,Dove Soap,Personal Care,HUL,50,115
+P00247,Colgate Toothpaste,Personal Care,Colgate,238,430
+P00248,Aashirvaad Atta 5kg,Grocery,ITC,362,560
+P00249,Pepsi 1L,Beverages,PepsiCo,394,435
+P00250,Pepsi 1L,Beverages,PepsiCo,133,287
+P00251,Potato 1kg,Vegetables,Local,215,247
+P00252,Lays Classic Chips,Snacks,PepsiCo,389,496
+P00253,Coca Cola 1L,Beverages,Coca Cola,482,599
+P00254,Lizol Floor Cleaner,Cleaning,HUL,491,502
+P00255,Potato 1kg,Vegetables,Local,196,327
+P00256,Surf Excel 1kg,Cleaning,HUL,244,274
+P00257,Surf Excel 1kg,Cleaning,HUL,288,427
+P00258,Dove Soap,Personal Care,HUL,392,470
+P00259,Mother Dairy Curd 400g,Dairy,Mother Dairy,94,285
+P00260,Lays Classic Chips,Snacks,PepsiCo,121,301
+P00261,Banana 1 Dozen,Fruits,Local,351,453
+P00262,Tata Salt 1kg,Grocery,Tata,164,245
+P00263,Coca Cola 1L,Beverages,Coca Cola,463,565
+P00264,Kurkure Masala,Snacks,PepsiCo,263,376
+P00265,Surf Excel 1kg,Cleaning,HUL,382,442
+P00266,Amul Milk 500ml,Dairy,Amul,161,340
+P00267,Aashirvaad Atta 5kg,Grocery,ITC,46,168
+P00268,Pepsi 1L,Beverages,PepsiCo,408,437
+P00269,Banana 1 Dozen,Fruits,Local,99,264
+P00270,Aashirvaad Atta 5kg,Grocery,ITC,201,253
+P00271,Banana 1 Dozen,Fruits,Local,271,334
+P00272,Aashirvaad Atta 5kg,Grocery,ITC,317,423
+P00273,Pepsi 1L,Beverages,PepsiCo,116,227
+P00274,Apple 1kg,Fruits,Local,255,266
+P00275,Apple 1kg,Fruits,Local,208,293
+P00276,Coca Cola 1L,Beverages,Coca Cola,285,434
+P00277,Coca Cola 1L,Beverages,Coca Cola,313,448
+P00278,Dove Soap,Personal Care,HUL,484,494
+P00279,Surf Excel 1kg,Cleaning,HUL,203,349
+P00280,Lizol Floor Cleaner,Cleaning,HUL,11,23
+P00281,Apple 1kg,Fruits,Local,287,348
+P00282,Dove Soap,Personal Care,HUL,359,518
+P00283,Lizol Floor Cleaner,Cleaning,HUL,215,406
+P00284,Lizol Floor Cleaner,Cleaning,HUL,363,388
+P00285,Potato 1kg,Vegetables,Local,305,356
+P00286,Lays Classic Chips,Snacks,PepsiCo,409,594
+P00287,Aashirvaad Atta 5kg,Grocery,ITC,348,517
+P00288,Kurkure Masala,Snacks,PepsiCo,257,276
+P00289,Coca Cola 1L,Beverages,Coca Cola,178,336
+P00290,Lizol Floor Cleaner,Cleaning,HUL,153,174
+P00291,Mother Dairy Curd 400g,Dairy,Mother Dairy,474,546
+P00292,Mother Dairy Curd 400g,Dairy,Mother Dairy,203,398
+P00293,Lays Classic Chips,Snacks,PepsiCo,306,335
+P00294,Tata Salt 1kg,Grocery,Tata,288,408
+P00295,Kurkure Masala,Snacks,PepsiCo,75,211
+P00296,Kurkure Masala,Snacks,PepsiCo,153,280
+P00297,Aashirvaad Atta 5kg,Grocery,ITC,275,329
+P00298,Amul Milk 500ml,Dairy,Amul,54,196
+P00299,Aashirvaad Atta 5kg,Grocery,ITC,238,421
+P00300,Coca Cola 1L,Beverages,Coca Cola,343,361
+P00301,Dove Soap,Personal Care,HUL,181,359
+P00302,Colgate Toothpaste,Personal Care,Colgate,279,440
+P00303,Apple 1kg,Fruits,Local,436,588
+P00304,Dove Soap,Personal Care,HUL,467,544
+P00305,Colgate Toothpaste,Personal Care,Colgate,329,487
+P00306,Mother Dairy Curd 400g,Dairy,Mother Dairy,171,217
+P00307,Lays Classic Chips,Snacks,PepsiCo,64,194
+P00308,Aashirvaad Atta 5kg,Grocery,ITC,66,142
+P00309,Pepsi 1L,Beverages,PepsiCo,414,504
+P00310,Pepsi 1L,Beverages,PepsiCo,192,329
+P00311,Aashirvaad Atta 5kg,Grocery,ITC,293,456
+P00312,Aashirvaad Atta 5kg,Grocery,ITC,491,498
+P00313,Pepsi 1L,Beverages,PepsiCo,49,180
+P00314,Surf Excel 1kg,Cleaning,HUL,333,513
+P00315,Onion 1kg,Vegetables,Local,218,285
+P00316,Aashirvaad Atta 5kg,Grocery,ITC,218,274
+P00317,Aashirvaad Atta 5kg,Grocery,ITC,96,253
+P00318,Colgate Toothpaste,Personal Care,Colgate,499,597
+P00319,Potato 1kg,Vegetables,Local,239,289
+P00320,Pepsi 1L,Beverages,PepsiCo,62,174
+P00321,Banana 1 Dozen,Fruits,Local,321,431
+P00322,Surf Excel 1kg,Cleaning,HUL,259,407
+P00323,Tata Salt 1kg,Grocery,Tata,55,206
+P00324,Surf Excel 1kg,Cleaning,HUL,279,460
+P00325,Mother Dairy Curd 400g,Dairy,Mother Dairy,210,350
+P00326,Kurkure Masala,Snacks,PepsiCo,367,384
+P00327,Aashirvaad Atta 5kg,Grocery,ITC,400,458
+P00328,Amul Milk 500ml,Dairy,Amul,265,289
+P00329,Pepsi 1L,Beverages,PepsiCo,262,356
+P00330,Surf Excel 1kg,Cleaning,HUL,417,596
+P00331,Kurkure Masala,Snacks,PepsiCo,68,172
+P00332,Lizol Floor Cleaner,Cleaning,HUL,420,601
+P00333,Surf Excel 1kg,Cleaning,HUL,225,260
+P00334,Lizol Floor Cleaner,Cleaning,HUL,49,174
+P00335,Onion 1kg,Vegetables,Local,147,300
+P00336,Mother Dairy Curd 400g,Dairy,Mother Dairy,396,412
+P00337,Banana 1 Dozen,Fruits,Local,362,521
+P00338,Mother Dairy Curd 400g,Dairy,Mother Dairy,134,260
+P00339,Kurkure Masala,Snacks,PepsiCo,317,413
+P00340,Banana 1 Dozen,Fruits,Local,200,337
+P00341,Onion 1kg,Vegetables,Local,267,329
+P00342,Onion 1kg,Vegetables,Local,365,477
+P00343,Lizol Floor Cleaner,Cleaning,HUL,358,516
+P00344,Aashirvaad Atta 5kg,Grocery,ITC,88,216
+P00345,Apple 1kg,Fruits,Local,385,445
+P00346,Lays Classic Chips,Snacks,PepsiCo,84,171
+P00347,Onion 1kg,Vegetables,Local,64,181
+P00348,Apple 1kg,Fruits,Local,45,203
+P00349,Kurkure Masala,Snacks,PepsiCo,175,322
+P00350,Tata Salt 1kg,Grocery,Tata,332,526
+P00351,Apple 1kg,Fruits,Local,436,567
+P00352,Pepsi 1L,Beverages,PepsiCo,469,519
+P00353,Aashirvaad Atta 5kg,Grocery,ITC,429,614
+P00354,Kurkure Masala,Snacks,PepsiCo,371,424
+P00355,Coca Cola 1L,Beverages,Coca Cola,425,439
+P00356,Aashirvaad Atta 5kg,Grocery,ITC,366,509
+P00357,Coca Cola 1L,Beverages,Coca Cola,129,280
+P00358,Apple 1kg,Fruits,Local,193,264
+P00359,Aashirvaad Atta 5kg,Grocery,ITC,432,490
+P00360,Apple 1kg,Fruits,Local,172,236
+P00361,Aashirvaad Atta 5kg,Grocery,ITC,170,274
+P00362,Surf Excel 1kg,Cleaning,HUL,407,425
+P00363,Lizol Floor Cleaner,Cleaning,HUL,14,139
+P00364,Coca Cola 1L,Beverages,Coca Cola,276,450
+P00365,Onion 1kg,Vegetables,Local,406,570
+P00366,Mother Dairy Curd 400g,Dairy,Mother Dairy,343,498
+P00367,Pepsi 1L,Beverages,PepsiCo,366,540
+P00368,Banana 1 Dozen,Fruits,Local,195,348
+P00369,Colgate Toothpaste,Personal Care,Colgate,79,245
+P00370,Apple 1kg,Fruits,Local,478,669
+P00371,Mother Dairy Curd 400g,Dairy,Mother Dairy,297,493
+P00372,Kurkure Masala,Snacks,PepsiCo,369,401
+P00373,Colgate Toothpaste,Personal Care,Colgate,257,424
+P00374,Surf Excel 1kg,Cleaning,HUL,178,349
+P00375,Tata Salt 1kg,Grocery,Tata,224,331
+P00376,Tata Salt 1kg,Grocery,Tata,44,101
+P00377,Surf Excel 1kg,Cleaning,HUL,328,453
+P00378,Surf Excel 1kg,Cleaning,HUL,488,602
+P00379,Colgate Toothpaste,Personal Care,Colgate,24,151
+P00380,Lays Classic Chips,Snacks,PepsiCo,71,198
+P00381,Lizol Floor Cleaner,Cleaning,HUL,371,451
+P00382,Amul Milk 500ml,Dairy,Amul,371,422
+P00383,Banana 1 Dozen,Fruits,Local,77,248
+P00384,Kurkure Masala,Snacks,PepsiCo,340,388
+P00385,Apple 1kg,Fruits,Local,58,239
+P00386,Lizol Floor Cleaner,Cleaning,HUL,425,445
+P00387,Pepsi 1L,Beverages,PepsiCo,354,421
+P00388,Kurkure Masala,Snacks,PepsiCo,385,450
+P00389,Pepsi 1L,Beverages,PepsiCo,170,253
+P00390,Amul Milk 500ml,Dairy,Amul,58,202
+P00391,Aashirvaad Atta 5kg,Grocery,ITC,342,426
+P00392,Banana 1 Dozen,Fruits,Local,147,195
+P00393,Banana 1 Dozen,Fruits,Local,399,545
+P00394,Apple 1kg,Fruits,Local,89,265
+P00395,Amul Milk 500ml,Dairy,Amul,90,272
+P00396,Apple 1kg,Fruits,Local,135,333
+P00397,Potato 1kg,Vegetables,Local,13,196
+P00398,Banana 1 Dozen,Fruits,Local,234,344
+P00399,Potato 1kg,Vegetables,Local,369,397
+P00400,Aashirvaad Atta 5kg,Grocery,ITC,352,545
+P00401,Pepsi 1L,Beverages,PepsiCo,346,367
+P00402,Onion 1kg,Vegetables,Local,223,298
+P00403,Amul Milk 500ml,Dairy,Amul,323,475
+P00404,Banana 1 Dozen,Fruits,Local,62,146
+P00405,Dove Soap,Personal Care,HUL,189,243
+P00406,Tata Salt 1kg,Grocery,Tata,469,523
+P00407,Colgate Toothpaste,Personal Care,Colgate,29,115
+P00408,Banana 1 Dozen,Fruits,Local,435,602
+P00409,Lays Classic Chips,Snacks,PepsiCo,163,251
+P00410,Tata Salt 1kg,Grocery,Tata,360,527
+P00411,Mother Dairy Curd 400g,Dairy,Mother Dairy,270,320
+P00412,Coca Cola 1L,Beverages,Coca Cola,450,474
+P00413,Tata Salt 1kg,Grocery,Tata,23,192
+P00414,Surf Excel 1kg,Cleaning,HUL,172,275
+P00415,Onion 1kg,Vegetables,Local,325,398
+P00416,Kurkure Masala,Snacks,PepsiCo,393,545
+P00417,Kurkure Masala,Snacks,PepsiCo,28,195
+P00418,Kurkure Masala,Snacks,PepsiCo,133,260
+P00419,Coca Cola 1L,Beverages,Coca Cola,374,476
+P00420,Pepsi 1L,Beverages,PepsiCo,308,482
+P00421,Pepsi 1L,Beverages,PepsiCo,317,366
+P00422,Kurkure Masala,Snacks,PepsiCo,301,394
+P00423,Lizol Floor Cleaner,Cleaning,HUL,128,270
+P00424,Coca Cola 1L,Beverages,Coca Cola,57,207
+P00425,Apple 1kg,Fruits,Local,57,78
+P00426,Surf Excel 1kg,Cleaning,HUL,321,499
+P00427,Amul Milk 500ml,Dairy,Amul,437,601
+P00428,Lizol Floor Cleaner,Cleaning,HUL,411,494
+P00429,Lays Classic Chips,Snacks,PepsiCo,153,325
+P00430,Lays Classic Chips,Snacks,PepsiCo,160,165
+P00431,Coca Cola 1L,Beverages,Coca Cola,227,404
+P00432,Kurkure Masala,Snacks,PepsiCo,272,467
+P00433,Surf Excel 1kg,Cleaning,HUL,148,257
+P00434,Surf Excel 1kg,Cleaning,HUL,113,194
+P00435,Lizol Floor Cleaner,Cleaning,HUL,497,562
+P00436,Apple 1kg,Fruits,Local,116,241
+P00437,Potato 1kg,Vegetables,Local,62,255
+P00438,Coca Cola 1L,Beverages,Coca Cola,233,394
+P00439,Apple 1kg,Fruits,Local,384,398
+P00440,Pepsi 1L,Beverages,PepsiCo,407,504
+P00441,Banana 1 Dozen,Fruits,Local,99,176
+P00442,Lizol Floor Cleaner,Cleaning,HUL,382,530
+P00443,Kurkure Masala,Snacks,PepsiCo,206,369
+P00444,Lays Classic Chips,Snacks,PepsiCo,293,382
+P00445,Onion 1kg,Vegetables,Local,20,140
+P00446,Apple 1kg,Fruits,Local,114,206
+P00447,Amul Milk 500ml,Dairy,Amul,305,398
+P00448,Kurkure Masala,Snacks,PepsiCo,398,546
+P00449,Potato 1kg,Vegetables,Local,321,395
+P00450,Dove Soap,Personal Care,HUL,441,607
+P00451,Amul Milk 500ml,Dairy,Amul,137,287
+P00452,Pepsi 1L,Beverages,PepsiCo,423,582
+P00453,Pepsi 1L,Beverages,PepsiCo,155,243
+P00454,Surf Excel 1kg,Cleaning,HUL,175,333
+P00455,Aashirvaad Atta 5kg,Grocery,ITC,439,564
+P00456,Coca Cola 1L,Beverages,Coca Cola,178,194
+P00457,Apple 1kg,Fruits,Local,244,280
+P00458,Surf Excel 1kg,Cleaning,HUL,12,26
+P00459,Onion 1kg,Vegetables,Local,150,189
+P00460,Colgate Toothpaste,Personal Care,Colgate,118,193
+P00461,Banana 1 Dozen,Fruits,Local,388,579
+P00462,Coca Cola 1L,Beverages,Coca Cola,351,452
+P00463,Pepsi 1L,Beverages,PepsiCo,230,350
+P00464,Apple 1kg,Fruits,Local,243,252
+P00465,Pepsi 1L,Beverages,PepsiCo,368,400
+P00466,Colgate Toothpaste,Personal Care,Colgate,368,537
+P00467,Amul Milk 500ml,Dairy,Amul,456,571
+P00468,Mother Dairy Curd 400g,Dairy,Mother Dairy,53,124
+P00469,Colgate Toothpaste,Personal Care,Colgate,474,500
+P00470,Tata Salt 1kg,Grocery,Tata,23,222
+P00471,Surf Excel 1kg,Cleaning,HUL,418,557
+P00472,Apple 1kg,Fruits,Local,417,605
+P00473,Colgate Toothpaste,Personal Care,Colgate,62,153
+P00474,Coca Cola 1L,Beverages,Coca Cola,255,351
+P00475,Pepsi 1L,Beverages,PepsiCo,231,422
+P00476,Onion 1kg,Vegetables,Local,10,182
+P00477,Onion 1kg,Vegetables,Local,49,192
+P00478,Pepsi 1L,Beverages,PepsiCo,493,503
+P00479,Aashirvaad Atta 5kg,Grocery,ITC,206,336
+P00480,Banana 1 Dozen,Fruits,Local,143,292
+P00481,Kurkure Masala,Snacks,PepsiCo,114,191
+P00482,Surf Excel 1kg,Cleaning,HUL,198,359
+P00483,Pepsi 1L,Beverages,PepsiCo,304,441
+P00484,Onion 1kg,Vegetables,Local,19,95
+P00485,Onion 1kg,Vegetables,Local,398,407
+P00486,Onion 1kg,Vegetables,Local,410,519
+P00487,Pepsi 1L,Beverages,PepsiCo,448,634
+P00488,Lizol Floor Cleaner,Cleaning,HUL,258,350
+P00489,Banana 1 Dozen,Fruits,Local,33,72
+P00490,Apple 1kg,Fruits,Local,471,521
+P00491,Pepsi 1L,Beverages,PepsiCo,46,171
+P00492,Kurkure Masala,Snacks,PepsiCo,470,559
+P00493,Colgate Toothpaste,Personal Care,Colgate,73,154
+P00494,Mother Dairy Curd 400g,Dairy,Mother Dairy,442,480
+P00495,Onion 1kg,Vegetables,Local,38,217
+P00496,Lizol Floor Cleaner,Cleaning,HUL,285,372
+P00497,Dove Soap,Personal Care,HUL,229,424
+P00498,Kurkure Masala,Snacks,PepsiCo,396,497
+P00499,Banana 1 Dozen,Fruits,Local,273,296
+P00500,Pepsi 1L,Beverages,PepsiCo,399,597
